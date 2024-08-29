@@ -19,14 +19,15 @@ I’m Kelvin Ojeda Quiroz, a passionate Software Engineer with a strong backgrou
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kelvinojedaepn&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=kelvinojedaepn&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=kelvinojedaepn&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 <a href="https://next.ossinsight.io/widgets/official/compose-contributors?limit=5&repo_id=526704744" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-contributors/thumbnail.png?limit=5&repo_id=526704744&image_size=auto&color_scheme=dark" width="655" height="auto">
     <img alt="Contributors of adriancoloma/mascotinder" src="https://next.ossinsight.io/widgets/official/compose-contributors/thumbnail.png?limit=5&repo_id=526704744&image_size=auto&color_scheme=light" width="655" height="auto">
   </picture>
 </a>
+
+---
+[![](https://visitcount.itsvg.in/api?id=kelvinojedaepn&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
